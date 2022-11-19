@@ -17,7 +17,7 @@ windowsのバージョンを詳しく（pratform.platform()で）表示するだ
 # 動作未確認/正常動作しないOS
 |Windows         |WindowsServer       |WindowsHomeServer  |
 |:--------------:|:------------------:|:-----------------:|
-|WindowsVita  [x]|WindowsServer2008[x]|WindowsHomeServer  |
+|WindowsVita     |WindowsServer2008   |WindowsHomeServer  |
 |WindowsXP       |                    |                   |
 |Windows me      |                    |                   |
 |Windows2000     |                    |                   |
