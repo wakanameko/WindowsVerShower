@@ -14,4 +14,14 @@ windowsのバージョンを詳しく（pratform.platform()で）表示するだ
 |Windows7      |WindowsServer2012  |                     |
 |              |WindowsServer2008R2|                     |
 
+# 動作未確認/正常動作しないOS
+|Windows         |WindowsServer       |WindowsHomeServer  |
+|:--------------:|:------------------:|:-----------------:|
+|WindowsVita  [x]|WindowsServer2008[x]|WindowsHomeServer  |
+|WindowsXP       |                    |                   |
+|Windows me      |                    |                   |
+|Windows2000     |                    |                   |
+|Windows98       |                    |                   |
+|Windows95       |                    |                   |
+
 ![WindowsVerShower](https://user-images.githubusercontent.com/63937252/201625714-7035f9af-7d5e-48b8-ae26-f3cfe5591f08.png)
