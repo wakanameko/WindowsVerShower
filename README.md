@@ -21,7 +21,7 @@ windowsのバージョンを詳しく（pratform.platform()で）表示するだ
 |WindowsXP     |WindowsServer2003R2              |                   |
 |Windows me    |WindowsServer2003                |                   |
 |Windows2000   |WindowsDatacenterServer          |                   |
-|Windows98     |WindowsAdvancedServer            |                   |
+|Windows98/98SE|WindowsAdvancedServer            |                   |
 |Windows95     |Windows2000Server                |                   |
 |WindowsNT     |WindowsNTServerVersion4.0        |                   |
 |Windows3.x    |WindowsNTServerVersion3.51       |                   |
