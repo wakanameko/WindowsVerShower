@@ -15,13 +15,18 @@ windowsのバージョンを詳しく（pratform.platform()で）表示するだ
 |              |WindowsServer2008R2|                     |
 
 # 動作未確認/正常動作しないOS
-|Windows         |WindowsServer       |WindowsHomeServer  |
-|:--------------:|:------------------:|:-----------------:|
-|WindowsVita     |WindowsServer2008   |WindowsHomeServer  |
-|WindowsXP       |                    |                   |
-|Windows me      |                    |                   |
-|Windows2000     |                    |                   |
-|Windows98       |                    |                   |
-|Windows95       |                    |                   |
+|Windows       |WindowsServer                    |WindowsHomeServer  |
+|:------------:|:-------------------------------:|:-----------------:|
+|WindowsVita   |WindowsServer2008                |WindowsHomeServer  |
+|WindowsXP     |WindowsServer2003R2              |                   |
+|Windows me    |WindowsServer2003                |                   |
+|Windows2000   |WindowsDatacenterServer          |                   |
+|Windows98     |WindowsAdvancedServer            |                   |
+|Windows95     |Windows2000Server                |                   |
+|              |WindowsNTServerVersion4.0        |                   |
+|              |WindowsNTServerVersion3.51       |                   |
+|              |WindowsNTServerVersion3.5        |                   |
+|              |WindowsNTAdvancedServerVersion3.1|                   |
+
 
 ![WindowsVerShower](https://user-images.githubusercontent.com/63937252/201625714-7035f9af-7d5e-48b8-ae26-f3cfe5591f08.png)
