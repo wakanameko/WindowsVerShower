@@ -23,10 +23,10 @@ windowsのバージョンを詳しく（pratform.platform()で）表示するだ
 |Windows2000   |WindowsDatacenterServer          |                   |
 |Windows98     |WindowsAdvancedServer            |                   |
 |Windows95     |Windows2000Server                |                   |
-|              |WindowsNTServerVersion4.0        |                   |
-|              |WindowsNTServerVersion3.51       |                   |
-|              |WindowsNTServerVersion3.5        |                   |
-|              |WindowsNTAdvancedServerVersion3.1|                   |
+|WindowsNT     |WindowsNTServerVersion4.0        |                   |
+|Windows3.x    |WindowsNTServerVersion3.51       |                   |
+|Windows2.x    |WindowsNTServerVersion3.5        |                   |
+|Windows1.x    |WindowsNTAdvancedServerVersion3.1|                   |
 
 
 ![WindowsVerShower](https://user-images.githubusercontent.com/63937252/201625714-7035f9af-7d5e-48b8-ae26-f3cfe5591f08.png)
